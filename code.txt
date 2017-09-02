@@ -10,3 +10,4 @@ Perfect feature-X
 Update something in develop
 Update something in develop 2
 Add feature-Y 1
+Add note for release v3.0.0
